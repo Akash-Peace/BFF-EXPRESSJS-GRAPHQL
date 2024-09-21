@@ -38,7 +38,7 @@ function decryptData(encryptedData, privateKey) {
           padding: crypto.constants.RSA_PKCS1_PADDING
       },
       Buffer.from(encryptedData, 'base64')
-  ).toString('base64');
+  ).toString('utf8');
 }
 
 module.exports = resolvers;
