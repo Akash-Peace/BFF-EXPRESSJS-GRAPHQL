@@ -3,7 +3,7 @@
   <img src="https://github.com/Akash-Peace/BFF-EXPRESSJS-GRAPHQL/blob/main/Screenshot/BFF_logo.png" alt="Logo" width="150" height="150">
   <h3 align="center">BFF Service</h3>
   <p align="center">
-    <a href="https://reactjs.org/"><strong>A Backend-For-Frontend Pattern</strong></a>
+    <a href="https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf"><strong>A Backend-For-Frontend Pattern</strong></a>
     <br />
     <br />
     <a href="#test-the-service">Test the service</a>
