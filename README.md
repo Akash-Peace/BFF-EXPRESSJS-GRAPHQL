@@ -26,7 +26,7 @@
     <li><a href="#encryption-support">Encryption support</a></li>
     <li><a href="#test-the-service">Test the service</a></li>
     <li><a href="#specifications-of-the-files-used">Specifications of the files used</a></li>
-    <li><a href="#screenshots">Screenshots</a></li>
+    <li><a href="#result">Result</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#my-system-spec">My System Spec</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -112,9 +112,9 @@ This file serves as a representation of the GraphQL schema in a format that can 
 ```
 
 
-## Screenshots
+## Result
 
-View [Screenshots](https://github.com/Akash-Peace/BFF-EXPRESSJS-GRAPHQL/blob/main/Screenshot/) here.
+View the [outcomes](https://github.com/Akash-Peace/BFF-EXPRESSJS-GRAPHQL/blob/main/Screenshot/).
 
 
 <!-- LICENSE -->
